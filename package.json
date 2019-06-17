@@ -16,5 +16,8 @@
     "jquery": "^3.4.1",
     "mongoose": "^5.5.14",
     "node-forge": "^0.8.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
   }
 }
